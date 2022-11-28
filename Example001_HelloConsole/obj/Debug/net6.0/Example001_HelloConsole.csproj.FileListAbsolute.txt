@@ -1,0 +1,15 @@
+F:\One Drive\OneDrive - vyatsu\GeekBrains\№4 Знакомство с С#\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+F:\One Drive\OneDrive - vyatsu\GeekBrains\№4 Знакомство с С#\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+F:\One Drive\OneDrive - vyatsu\GeekBrains\№4 Знакомство с С#\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+F:\One Drive\OneDrive - vyatsu\GeekBrains\№4 Знакомство с С#\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+F:\One Drive\OneDrive - vyatsu\GeekBrains\№4 Знакомство с С#\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+F:\One Drive\OneDrive - vyatsu\GeekBrains\№4 Знакомство с С#\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+F:\One Drive\OneDrive - vyatsu\GeekBrains\№4 Знакомство с С#\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\One Drive\OneDrive - vyatsu\GeekBrains\№4 Знакомство с С#\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+F:\One Drive\OneDrive - vyatsu\GeekBrains\№4 Знакомство с С#\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+F:\One Drive\OneDrive - vyatsu\GeekBrains\№4 Знакомство с С#\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+F:\One Drive\OneDrive - vyatsu\GeekBrains\№4 Знакомство с С#\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+F:\One Drive\OneDrive - vyatsu\GeekBrains\№4 Знакомство с С#\Examples\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+F:\One Drive\OneDrive - vyatsu\GeekBrains\№4 Знакомство с С#\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+F:\One Drive\OneDrive - vyatsu\GeekBrains\№4 Знакомство с С#\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+F:\One Drive\OneDrive - vyatsu\GeekBrains\№4 Знакомство с С#\Examples\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
